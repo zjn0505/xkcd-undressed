@@ -12,6 +12,8 @@ Current added comics:
 
 - 1663: [Garden](https://zjn0505.github.io/xkcd-undressed/1663/)
 
+- 2067: [Challengers](https://zjn0505.github.io/xkcd-undressed/2067/)
+
 - 2198: [Throw](https://zjn0505.github.io/xkcd-undressed/2198/)
 
 ToDo：
@@ -33,8 +35,6 @@ ToDo：
 - 1608: Hoverboard
 
 - 1975: Right Click
-
-- 2067: Challengers
 
 - 2131: Emojidome
 
