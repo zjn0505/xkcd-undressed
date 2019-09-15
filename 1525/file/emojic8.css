@@ -42,7 +42,7 @@
   position: relative;
   width: 320px;
   height: 320px;
-  background: url('/1525/ball.png') no-repeat;
+  background: url('https://zjn0505.github.io/xkcd-undressed/1525/ball.png') no-repeat;
   z-index: 100;
 }
 
@@ -63,7 +63,7 @@
   top: 75px;
   width: 145px;
   height: 145px;
-  background: url('/1525/triangle.png') no-repeat;
+  background: url('https://zjn0505.github.io/xkcd-undressed/1525/triangle.png') no-repeat;
 }
 
 #ball-answer .text {
