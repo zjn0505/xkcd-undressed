@@ -10,6 +10,8 @@ https://zjn0505.github.io/xkcd-undressed
 
 Current added comics:
 
+- 1608: [Hoverboard](https://zjn0505.github.io/xkcd-undressed/1608/)
+
 - 1663: [Garden](https://zjn0505.github.io/xkcd-undressed/1663/)
 
 - 2067: [Challengers](https://zjn0505.github.io/xkcd-undressed/2067/)
@@ -33,8 +35,6 @@ ToDo：
 - 1506: xkcloud
 
 - 1525: Emojic 8 Ball
-
-- 1608: Hoverboard
 
 - 1975: Right Click
 
