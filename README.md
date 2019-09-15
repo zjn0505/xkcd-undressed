@@ -16,6 +16,8 @@ Current added comics:
 
 - 1416: [Pixels](https://zjn0505.github.io/xkcd-undressed/1416/)
 
+- 1525: [Emojic 8 Ball](https://zjn0505.github.io/xkcd-undressed/1525/)
+
 - 1608: [Hoverboard](https://zjn0505.github.io/xkcd-undressed/1608/)
 
 - 1663: [Garden](https://zjn0505.github.io/xkcd-undressed/1663/)
