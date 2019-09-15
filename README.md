@@ -40,6 +40,15 @@ ToDo：
 
 The list is collected from [explainxkcd](https://www.explainxkcd.com/wiki/index.php/Category:Interactive_comics)
 
+## References
+
+- 1608: 
+  - [erinaceous/xkcd-1608](https://github.com/erinaceous/xkcd-1608) download all of 1608 and generate a map from it
+
+- 2131: 
+  - [phiresky/emojidome](https://github.com/phiresky/emojidome) Interactive viewer of the results of the Emojidome XKCD
+  - [zjn0505/emojidome](https://github.com/zjn0505/emojidome) My fork to make it working with ES5
+
 ## Disclaimer
 
 This repository is under MIT license, and xkcd comics are under [CC BY-NC 2.5](https://xkcd.com/license.html)
