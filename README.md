@@ -10,6 +10,8 @@ https://zjn0505.github.io/xkcd-undressed
 
 Current added comics:
 
+- 826: [Guest Week: Zach Weiner (SMBC)](https://zjn0505.github.io/xkcd-undressed/826/)
+
 - 1608: [Hoverboard](https://zjn0505.github.io/xkcd-undressed/1608/)
 
 - 1663: [Garden](https://zjn0505.github.io/xkcd-undressed/1663/)
@@ -21,8 +23,6 @@ Current added comics:
 - 2198: [Throw](https://zjn0505.github.io/xkcd-undressed/2198/)
 
 ToDo：
-
-- 826: Guest Week: Zach Weiner (SMBC)
 
 - 880: Headache
 
