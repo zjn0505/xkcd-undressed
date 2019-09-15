@@ -36,8 +36,6 @@ ToDo：
 
 - 1506: xkcloud
 
-- 1525: Emojic 8 Ball
-
 - 1975: Right Click
 
 The list is collected from [explainxkcd](https://www.explainxkcd.com/wiki/index.php/Category:Interactive_comics)
