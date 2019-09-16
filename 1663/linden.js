@@ -556,7 +556,7 @@
         };
     s.prototype = {
         record: function(t, e) {
-            (new Image).src = "http://xkcd.com/events.gif?re=" + t + "&ev=" + e
+            (new Image).src = "https://xkcd.com/events.gif?re=" + t + "&ev=" + e
         },
         log: function() {
             this.opts.debug && console.log.apply(console, arguments)
