@@ -4029,17 +4029,17 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
       size: 38
     }, "投掷计算器"), o.a.createElement("div", null, o.a.createElement(l, {
       size: 18
-    }, "这个计算器实现了来自《how to》第十章: “如何投掷东西“ 的投掷距离估测模型"), o.a.createElement(l, {
+    }, "这个计算器实现了来自《how to》第十章: “如何投掷东西“ 的投掷距离估测模型 "), o.a.createElement(l, {
       size: 18
-    }, "."))), o.a.createElement(se, null, o.a.createElement(l, {
+    }, "."))), o.a.createElement(se, null, o.a.createElement(fe, {
       size: 22
     }, _.name), o.a.createElement(l, {
-        size: 22
+      size: 22
     }, "能把 "), o.a.createElement(fe, {
       size: 22
     }, (_.id === T.id ? T.selfThrownName : T.shortName) || T.name), o.a.createElement(l, {
-        size: 22
-    }, " 扔多远"), o.a.createElement(fe, {
+      size: 22
+    }, " 扔多远 "), o.a.createElement(l, {
       size: 22
     }, "?")), o.a.createElement(le, null, o.a.createElement(I, {
       title: "选择一个投掷者",
