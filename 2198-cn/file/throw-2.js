@@ -3835,7 +3835,7 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
         _Object4 = _slicedToArray(_Object3, 2),
         i = _Object4[0],
         a = _Object4[1],
-        _Object5 = Object(r.useState)("You"),
+        _Object5 = Object(r.useState)("你"),
         _Object6 = _slicedToArray(_Object5, 2),
         u = _Object6[0],
         c = _Object6[1],
