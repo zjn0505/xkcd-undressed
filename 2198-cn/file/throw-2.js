@@ -3529,7 +3529,7 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
     meters: 91.44
   }), F(U, {
     id: "rack_unit",
-    plural: "个机架单位"",
+    plural: "个机架单位",
     meters: .04445
   }), F(U, {
     id: "horse",
