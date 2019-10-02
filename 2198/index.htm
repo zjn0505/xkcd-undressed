@@ -16,7 +16,7 @@
       return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
     };
     var region = getUrlParameter("region");
-    if (region == "zh_CN" || (region.startsWith("zh_") && region.endsWith("_#Hans"))) {
+    if (region == "zh_CN" || (region.startsWith("zh_") && region.endsWith("__Hans"))) {
       window.location = "https://zjn0505.github.io/xkcd-undressed/2198-cn/";
     }
 
