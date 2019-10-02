@@ -3,10 +3,24 @@
 
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-  <link rel="shortcut icon" href="https://xkcd.com/s/919f27.ico" type="image/x-icon"/>
-  <link rel="icon" href="https://xkcd.com/s/919f27.ico" type="image/x-icon"/>
+  <link rel="shortcut icon" href="https://xkcd.com/s/919f27.ico" type="image/x-icon" />
+  <link rel="icon" href="https://xkcd.com/s/919f27.ico" type="image/x-icon" />
   <title>xkcd: Throw</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <script>
+    function getUrlParameter(name) {
+      name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+      var regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+      var results = regex.exec(location.search);
+      return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+    };
+    var region = getUrlParameter("region");
+    if (region == "zh_CN") {
+      window.location = "https://zjn0505.github.io/xkcd-undressed/2198-cn/";
+    }
+
+  </script>
 
   <style>
     @font-face {
