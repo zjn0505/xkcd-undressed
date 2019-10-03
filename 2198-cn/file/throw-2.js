@@ -12133,7 +12133,7 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
     width: 119,
     height: 66,
     url: {
-      "2x": "https://xkcd.com/2198/throw/static/ca8fde.png"
+      "2x": "https://zjn0505.github.io/xkcd-undressed/2198-cn/file/ca8fde.png"
     }
   };
 }, function (e, t) {
