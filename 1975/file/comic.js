@@ -2347,7 +2347,7 @@
     Object.defineProperty(e, "__esModule", {
         value: !0
     });
-    e.ALTO_ENDPOINT = "http://zjn0505.github.io/xkcd-undressed/1975/file"
+    e.ALTO_ENDPOINT = "https://zjn0505.github.io/xkcd-undressed/1975/file"
 }, function (t, e, n) {
     "use strict";
     Object.defineProperty(e, "__esModule", {
