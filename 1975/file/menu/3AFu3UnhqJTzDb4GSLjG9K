@@ -1,0 +1,1 @@
+{"id":"3AFu3UnhqJTzDb4GSLjG9K","onLeave":{"setTags":{},"unsetTags":[]},"entries":[{"icon":null,"label":"Power On","display":{"tag":"TagSet","contents":"fB8XXzoJwGCFKwDDNKdJpQ="},"active":{"tag":"Always"},"reaction":{"tag":"Action","onAction":{"setTags":{},"unsetTags":["fB8XXzoJwGCFKwDDNKdJpQ="]},"act":{"tag":"ColapseMenu"}}}]}
