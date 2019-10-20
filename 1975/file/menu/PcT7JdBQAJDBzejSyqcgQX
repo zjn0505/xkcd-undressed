@@ -1,0 +1,1 @@
+{"id":"PcT7JdBQAJDBzejSyqcgQX","onLeave":{"setTags":{},"unsetTags":[]},"entries":[{"icon":null,"label":"You are not in the sudoers file. This incident will be reported.","display":{"tag":"Always"},"active":{"tag":"TLNot","contents":{"tag":"Always"}},"reaction":{"tag":"Action","onAction":{"setTags":{},"unsetTags":[]},"act":null}}]}
