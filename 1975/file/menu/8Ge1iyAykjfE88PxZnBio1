@@ -1,0 +1,1 @@
+{"id":"8Ge1iyAykjfE88PxZnBio1","onLeave":{"setTags":{},"unsetTags":[]},"entries":[{"icon":null,"label":"Sing \"This Corrosion\" to me","display":{"tag":"Always"},"active":{"tag":"Always"},"reaction":{"tag":"Action","onAction":{"setTags":{},"unsetTags":[]},"act":{"tag":"JSCall","jsCall":"thisCorrosion"}}}]}
