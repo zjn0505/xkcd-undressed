@@ -38,6 +38,8 @@ ToDo：
 
 - 1975: Right Click
 
+- 2288: Collector's Edition
+
 The list is collected from [explainxkcd](https://www.explainxkcd.com/wiki/index.php/Category:Interactive_comics)
 
 ## References
