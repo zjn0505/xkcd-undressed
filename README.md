@@ -28,6 +28,8 @@ Current added comics:
 
 - 2198: [Throw](https://zjn0505.github.io/xkcd-undressed/2198/)
 
+- 2916: [Machine](https://zjn0505.github.io/xkcd-undressed/2916/)
+
 ToDo：
 
 - 880: Headache
